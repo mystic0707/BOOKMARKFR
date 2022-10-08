@@ -1,0 +1,9 @@
+.add-discord-verification-button {
+    transition-delay: 0s, 0s, 0s;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    background-color: #5865F2 !important;
+}
+
+.add-discord-verification-button:hover {
+    background-color: #4954cc !important;
+}
